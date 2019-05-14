@@ -18,3 +18,7 @@ git clone (해당 파일 주소)
 
 변경된 내용 업데이트
 git pull
+
+아이디 / 이메일 설정
+git config --global user.name "아이디"
+git config --global user.email 
